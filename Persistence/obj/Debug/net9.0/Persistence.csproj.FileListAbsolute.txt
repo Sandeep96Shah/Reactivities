@@ -1,0 +1,15 @@
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/bin/Debug/net9.0/Persistence.deps.json
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/bin/Debug/net9.0/Persistence.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/bin/Debug/net9.0/Persistence.pdb
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/bin/Debug/net9.0/Domain.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/bin/Debug/net9.0/Domain.pdb
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/obj/Debug/net9.0/Persistence.csproj.AssemblyReference.cache
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/obj/Debug/net9.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfoInputs.cache
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfo.cs
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/obj/Debug/net9.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/obj/Debug/net9.0/Persiste.61C28332.Up2Date
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/obj/Debug/net9.0/Persistence.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/obj/Debug/net9.0/refint/Persistence.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/obj/Debug/net9.0/Persistence.pdb
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/obj/Debug/net9.0/ref/Persistence.dll

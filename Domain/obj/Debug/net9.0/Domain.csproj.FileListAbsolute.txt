@@ -1,0 +1,11 @@
+/Users/sandeepshah/Documents/DotNet/Reactivities/Domain/bin/Debug/net9.0/Domain.deps.json
+/Users/sandeepshah/Documents/DotNet/Reactivities/Domain/bin/Debug/net9.0/Domain.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/sandeepshah/Documents/DotNet/Reactivities/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sandeepshah/Documents/DotNet/Reactivities/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Users/sandeepshah/Documents/DotNet/Reactivities/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Users/sandeepshah/Documents/DotNet/Reactivities/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/sandeepshah/Documents/DotNet/Reactivities/Domain/obj/Debug/net9.0/Domain.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/Domain/obj/Debug/net9.0/Domain.pdb
+/Users/sandeepshah/Documents/DotNet/Reactivities/Domain/obj/Debug/net9.0/ref/Domain.dll
