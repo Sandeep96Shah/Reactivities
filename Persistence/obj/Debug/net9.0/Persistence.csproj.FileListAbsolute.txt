@@ -13,3 +13,4 @@
 /Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/obj/Debug/net9.0/refint/Persistence.dll
 /Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/obj/Debug/net9.0/Persistence.pdb
 /Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/obj/Debug/net9.0/ref/Persistence.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/Persistence/obj/Debug/net9.0/Persistence.sourcelink.json

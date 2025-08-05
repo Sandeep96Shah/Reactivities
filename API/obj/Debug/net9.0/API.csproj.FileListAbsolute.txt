@@ -154,3 +154,10 @@
 /Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/MediatR.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/MediatR.Contracts.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/API/obj/Debug/net9.0/API.sourcelink.json
