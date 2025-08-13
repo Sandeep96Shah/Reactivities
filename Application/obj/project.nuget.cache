@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1F/HijabTlQ=",
+  "dgSpecHash": "kNOiuKW6OTY=",
   "success": true,
   "projectFilePath": "/Users/sandeepshah/Documents/DotNet/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/sandeepshah/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/sandeepshah/.nuget/packages/mediatr/13.0.0/mediatr.13.0.0.nupkg.sha512",
     "/Users/sandeepshah/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/sandeepshah/.nuget/packages/microsoft.data.sqlite.core/9.0.3/microsoft.data.sqlite.core.9.0.3.nupkg.sha512",

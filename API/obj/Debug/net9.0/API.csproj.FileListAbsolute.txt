@@ -161,3 +161,4 @@
 /Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
 /Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
 /Users/sandeepshah/Documents/DotNet/Reactivities/API/obj/Debug/net9.0/API.sourcelink.json
+/Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/AutoMapper.dll
