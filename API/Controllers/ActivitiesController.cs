@@ -3,18 +3,21 @@ using Application.Activities.Commands;
 using Application.Activities.Queries;
 using Domain;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers;
 
 public class ActivitiesController : BaseApiController
 {
+    [AllowAnonymous]
     [HttpGet]
     public async Task<ActionResult<List<Activity>>> GetActivities(CancellationToken ct)
     {
         return await Mediator.Send(new GetActivityList.Query(), ct);
     }
 
+    [Authorize]
     [HttpGet("{id}")]
     public async Task<ActionResult<Activity>> GetActivityDetails(string id)
     {

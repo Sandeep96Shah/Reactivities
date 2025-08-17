@@ -162,3 +162,8 @@
 /Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
 /Users/sandeepshah/Documents/DotNet/Reactivities/API/obj/Debug/net9.0/API.sourcelink.json
 /Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/AutoMapper.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/Microsoft.Extensions.Identity.Core.dll
+/Users/sandeepshah/Documents/DotNet/Reactivities/API/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll

@@ -10,3 +10,4 @@
 /Users/sandeepshah/Documents/DotNet/Reactivities/Domain/obj/Debug/net9.0/Domain.pdb
 /Users/sandeepshah/Documents/DotNet/Reactivities/Domain/obj/Debug/net9.0/ref/Domain.dll
 /Users/sandeepshah/Documents/DotNet/Reactivities/Domain/obj/Debug/net9.0/Domain.sourcelink.json
+/Users/sandeepshah/Documents/DotNet/Reactivities/Domain/obj/Debug/net9.0/Domain.csproj.AssemblyReference.cache
